@@ -1,0 +1,5 @@
+name: Block Calculator
+description: A block based simple calculator.
+core: 8.x
+type: module
+package: custom

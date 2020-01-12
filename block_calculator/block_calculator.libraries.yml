@@ -1,0 +1,7 @@
+block_calculator:
+  version: 1.x
+  js:
+    js/calculator.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

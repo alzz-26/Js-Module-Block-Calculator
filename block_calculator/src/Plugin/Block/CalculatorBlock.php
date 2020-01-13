@@ -15,7 +15,7 @@ class CalculatorBlock extends BlockBase {
    */
   public function build() {
     return [
-      '#markup' => '<div id="block">CALCULATOR!</div>',
+      '#markup' => '<div id="button">CALCULATOR!</div>',
       '#attached' => [
         'library' => [
           'block_calculator/block_calculator',
